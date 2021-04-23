@@ -13,5 +13,9 @@
 </script>
 
 <style>
+	page {
+		width: 100%;
+		height: 100%;
+	}
 	/*每个页面公共css */
 </style>
