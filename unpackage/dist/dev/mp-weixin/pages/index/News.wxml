@@ -1,0 +1,1 @@
+<view class="data-v-eec0e96e"><label-cell vue-id="e95b4246-1" label="新闻资讯" class="data-v-eec0e96e" bind:__l="__l"></label-cell><block wx:for="{{newsList}}" wx:for-item="i" wx:for-index="index" wx:key="index"><news-item vue-id="{{'e95b4246-2-'+index}}" newsInfo="{{i}}" class="data-v-eec0e96e" bind:__l="__l"></news-item></block></view>

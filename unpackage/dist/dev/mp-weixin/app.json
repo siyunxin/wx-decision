@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/eventDetail/index",
+    "pages/index/index",
+    "pages/newsDetail/index",
+    "pages/eventDecision/index",
+    "pages/eventReported/index",
+    "pages/login/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}
