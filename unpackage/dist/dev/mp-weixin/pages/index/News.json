@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "news-item": "/pages/index/NewsItem",
+    "label-cell": "/pages/index/LabelCell"
+  }
+}

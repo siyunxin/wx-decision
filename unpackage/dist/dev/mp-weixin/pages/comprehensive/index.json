@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "综合态势",
+  "usingComponents": {
+    "label-cell": "/components/LabelCell/index",
+    "mpvue-echarts": "/components/mpVueEcharts/echarts"
+  }
+}

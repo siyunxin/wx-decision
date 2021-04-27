@@ -1,0 +1,1 @@
+<view class="wrap data-v-1cab6570"><view class="left data-v-1cab6570">|</view><view class="center data-v-1cab6570">{{''+label+''}}</view><view class="right data-v-1cab6570"><text hidden="{{!(showMore)}}" class="data-v-1cab6570">更多>></text><slot></slot></view></view>

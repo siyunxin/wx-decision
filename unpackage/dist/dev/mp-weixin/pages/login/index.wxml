@@ -1,0 +1,1 @@
+<view class="login-container data-v-4586967a"><view class="wrap data-v-4586967a"><view class="logo data-v-4586967a"></view><view class="label data-v-4586967a">新模式，心治理</view><button class="sys_btn data-v-4586967a" open-type="getUserInfo" lang="zh_CN" data-event-opts="{{[['getuserinfo',[['appLoginWx',['$event']]]]]}}" bindgetuserinfo="__e">小程序登录授权</button></view></view>

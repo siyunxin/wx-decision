@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.model-warp.data-v-aa834012 {
+  background-color: #fff;
+  width: 600rpx;
+  height: 850rpx;
+}
+.model-warp .model-header.data-v-aa834012 {
+  height: 90rpx;
+  line-height: 90rpx;
+  font-weight: 600;
+  font-size: 35rpx;
+  padding-left: 10rpx;
+}
+.model-warp .content.data-v-aa834012 {
+  width: 95%;
+  margin: 0 auto;
+}
+.model-warp .content .subhead.data-v-aa834012 {
+  height: 60rpx;
+  line-height: 60rpx;
+  font-size: 30rpx;
+  margin-bottom: 15rpx;
+}
+.model-warp .content .start-warp.data-v-aa834012 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bootom: 25rpx;
+}
+.model-warp .content .start-warp .start.data-v-aa834012 {
+  width: 80%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 16rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.model-warp .content .start-warp .start .start-m image.data-v-aa834012 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.model-warp .content .start-warp .result-text.data-v-aa834012 {
+  width: 15%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+}
+.model-warp .content .suggest-warp.data-v-aa834012 {
+  margin-bottom: 35rpx;
+}
+.model-warp .content .suggest-warp textarea.data-v-aa834012 {
+  border: 1px solid #ccc;
+  width: 90%;
+  padding: 25rpx;
+}
+.model-close.data-v-aa834012 {
+  position: absolute;
+  top: 20rpx;
+  right: 40rpx;
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "事件详情",
+  "usingComponents": {
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "u-steps": "/uview-ui/components/u-steps/u-steps",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "evaluate": "/components/Evaluate/index",
+    "urge-manage": "/components/UrgeManage/index"
+  }
+}

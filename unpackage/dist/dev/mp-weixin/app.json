@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/comprehensive/index",
+    "pages/index/index",
+    "pages/eventDetail/index",
+    "pages/newsDetail/index",
+    "pages/eventDecision/index",
+    "pages/eventReported/index",
+    "pages/mine/index",
+    "pages/login/index",
+    "pages/map/index",
+    "pages/eventAdmin/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "iconWidth": "44rpx",
+    "fontSize": "24rpx",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "static/image/tabbar/home.png",
+        "selectedIconPath": "static/image/tabbar/selected_home.png"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "text": "我的",
+        "iconPath": "static/image/tabbar/mine.png",
+        "selectedIconPath": "static/image/tabbar/selected_mine.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "测试"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

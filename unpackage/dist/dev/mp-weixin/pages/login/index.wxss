@@ -1,0 +1,48 @@
+
+.login-container.data-v-4586967a {
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.wrap.data-v-4586967a {
+	width: 50%;
+	height: 500rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.logo.data-v-4586967a {
+	width: 180rpx;
+	height: 100rpx;
+	border: 1rpx solid #000;
+	margin: 8rpx;
+}
+.label.data-v-4586967a {
+	margin: 10rpx;
+}
+.btn.data-v-4586967a {
+	margin-top: 100rpx;
+}
+image.data-v-4586967a {
+	width: 100%;
+	height: 100%;
+}
+
